@@ -1,4 +1,4 @@
-# DL-VerCode-Recognizing文件说明
+# DL-VerCode-Recognition文件说明
 
 ## Make sample
 
